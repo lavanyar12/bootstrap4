@@ -1,0 +1,7 @@
+Environment
+
+NodeJS
+Atom - install emmet, atom-live-server
+cloudflare.com - javascript ajax - popper
+jquery
+
