@@ -5,3 +5,6 @@ Atom - install emmet, atom-live-server
 cloudflare.com - javascript ajax - popper
 jquery
 
+Install starter kit includes compiler, Gulp and dev server
+Using Gulp with Bootstrap 4
+Gulp is a javascript task runner which will help us solve the empty folder issue, along with sass compiling and live browser reloading.
